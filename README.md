@@ -2,10 +2,6 @@
 
 We're building a custom MCP server, which connects to Cursor and lets it perform deep web searches using [Linkup](https://www.linkup.so/) amd RAG using LlamaIndex.
 
-
-### Watch this tutorial on YouTube
-[![Watch this tutorial on YouTube](https://github.com/patchy631/ai-engineering-hub/blob/main/cursor_linkup_mcp/assets/thumbnail.png)](https://youtu.be/XMVzT8X0QTA)
-
 ### Setup
 
 To sync dependencies, run:
